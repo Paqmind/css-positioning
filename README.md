@@ -1,6 +1,6 @@
-# CSS Techniques
+# CSS Positioning
 
-High-level CSS techniques overview for 2015
+High-level overview of CSS positioning techniques for 2015
 
 ## Positioning 
 
