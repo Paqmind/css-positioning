@@ -20,7 +20,11 @@ Most important stuff. Site layout, menus, breadcrumbs, buttons, forms. Solutions
 
 ### Floats
 
-\- no main axis alignment
+\- horizontal only
+
+\- no centering along the main axis
+
+\- no alignment along the cross axis
 
 \- can't force items to have equal height
 
@@ -32,6 +36,12 @@ Most important stuff. Site layout, menus, breadcrumbs, buttons, forms. Solutions
 
 ### Inline Blocks
 
+\- horizontal only
+
+\+ can be centered along the main axis
+
+\- no alignment along the cross axis
+
 \- absorb whitespace as characters (as all inline elements)
 
 \- can't force items to have equal height
@@ -40,7 +50,15 @@ Most important stuff. Site layout, menus, breadcrumbs, buttons, forms. Solutions
 
 ### Flexboxes
 
-???
+\+ horizontal or vertical
+
+\+ can be aligned along the main axis
+
+\+ can be aligned along the cross axis
+
+\+ can force items to have equal height
+
+\+ HTML order independent
 
 ### Grid
 
