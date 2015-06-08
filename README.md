@@ -1,6 +1,7 @@
 # CSS Positioning
 
 High-level overview of CSS positioning techniques for 2015
+
 Most important stuff. Site layout, menus, breadcrumbs, buttons, forms. Solutions?
 
 ### Absolute positioning
