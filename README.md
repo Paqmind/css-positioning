@@ -46,11 +46,11 @@ Most important stuff. Site layout, menus, breadcrumbs, buttons, forms. Solutions
 
 ???
 
-## Guide map
+## Recommended Usage
 
 ### Absolute positioning
 
-Ending elements (no other element can dependent from their position)
+Ending elements (no other element can dependent from their position).
 
 ### Tables
 
@@ -58,7 +58,7 @@ Pure text content in table representation.
 
 ### Floats
 
-Wrap text around image
+Their primal purpose: wrap text around image.
 
 ### Inline Blocks
 
@@ -66,5 +66,5 @@ Wrap text around image
 
 ### Flexbox 
 
-Site layout, menus, breadcrumbs, buttons, forms
+Site layout, menus, breadcrumbs, buttons, forms.
 
