@@ -2,7 +2,7 @@
 
 High-level overview of CSS positioning techniques for 2015
 
-Most important stuff. Site layout, menus, breadcrumbs, buttons, forms. Solutions?
+Most important stuff. Site layout, menus, breadcrumbs, buttons, forms. 
 
 All techniques before Flexbox are fundamentally flawed as general solutions.
 
