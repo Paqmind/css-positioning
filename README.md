@@ -99,5 +99,10 @@ Site layout, menus, breadcrumbs, buttons, forms.
   width: 50%; height: 50%;
   margin: auto;
   overflow: auto; /* scrolls if content is too wide or too high */
+  
+  /* Resize is also supported */
+  resize: both;
+  max-width: 100%;
+  max-height: 100%;
 }
 ```
