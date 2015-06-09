@@ -111,6 +111,7 @@ Site layout, menus, breadcrumbs, buttons, forms.
 ### Absolute Position + Constant Height
 
 \- constant height
+
 \+ stable solution
 
 ```css
@@ -136,7 +137,9 @@ Site layout, menus, breadcrumbs, buttons, forms.
 ### Absolute Position + Transform
 
 \+ variable height
+
 \- can interfere with other transforms
+
 \- blurry rendering in some cases
 
 ```css
@@ -162,5 +165,7 @@ Site layout, menus, breadcrumbs, buttons, forms.
 ### Inline Block
 
 \- relies on pseudo elements
+
 \- hacky width pre-calculations
+
 \- font specific
