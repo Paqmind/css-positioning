@@ -70,7 +70,7 @@ All techniques before Flexbox are fundamentally flawed as general solutions.
 
 ### Absolute positioning
 
-Ending elements (no other element can dependent from their position).
+Terminal elements: popups, banners, icons, logos
 
 ### Tables
 
@@ -88,3 +88,16 @@ Their primal purpose: wrap text around image.
 
 Site layout, menus, breadcrumbs, buttons, forms.
 
+## Centering
+
+### Absolute Position + Defined Dimensions
+
+```css
+.center {
+  position: absolute;
+  margin: auto;
+  top: 0; left: 0; bottom: 0; right: 0;
+  width: 50%; height: 50%;
+  overflow: auto; /* scrolls if content is too wide or too high */
+}
+```
