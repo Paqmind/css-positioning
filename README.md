@@ -104,5 +104,8 @@ Site layout, menus, breadcrumbs, buttons, forms.
   resize: both;
   max-width: 100%;
   max-height: 100%;
+  
+  /* Can be used to center an image */
+  /* heigth: auto */
 }
 ```
