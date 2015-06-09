@@ -8,11 +8,11 @@ Expensive to redevelop after a wrong choice.
 
 Accepted solutions must be responsive-friendly.
 
-### Absolute positioning 
+### Absolute position
 
 \- no sibling concept
 
-### Fixed positioning 
+### Fixed position
 
 \- no sibling concept
 
@@ -74,11 +74,11 @@ Accepted solutions must be responsive-friendly.
 
 ## Recommended Usage
 
-### Absolute positioning
+### Absolute position
 
 Terminal elements: popups, banners, icons, logos.
 
-### Fixed positioning
+### Fixed position
 
 Sticky elements: headers, footers, menus.
 
