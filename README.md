@@ -1,12 +1,18 @@
 # CSS Positioning
 
-High-level overview of CSS positioning techniques for 2015
+High-level overview of CSS positioning techniques for 2015.
 
-Most important stuff. Site layout, menus, breadcrumbs, buttons, forms. 
+The most important subject. Used everywhere: layouts, menus, forms...
 
-All techniques before Flexbox are fundamentally flawed as general solutions.
+Expensive to redevelop after a wrong choice.
 
-### Absolute positioning
+Accepted solutions must be responsive-friendly.
+
+### Absolute positioning 
+
+\- no sibling concept
+
+### Fixed positioning 
 
 \- no sibling concept
 
