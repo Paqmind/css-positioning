@@ -76,7 +76,11 @@ Accepted solutions must be responsive-friendly.
 
 ### Absolute positioning
 
-Terminal elements: popups, banners, icons, logos
+Terminal elements: popups, banners, icons, logos.
+
+### Fixed positioning
+
+Sticky elements: headers, footers, menus.
 
 ### Tables
 
