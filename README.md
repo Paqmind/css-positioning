@@ -95,9 +95,9 @@ Site layout, menus, breadcrumbs, buttons, forms.
 ```css
 .center {
   position: absolute;
-  margin: auto;
   top: 0; left: 0; bottom: 0; right: 0;
   width: 50%; height: 50%;
+  margin: auto;
   overflow: auto; /* scrolls if content is too wide or too high */
 }
 ```
