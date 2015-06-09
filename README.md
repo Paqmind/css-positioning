@@ -8,6 +8,10 @@ Expensive to redevelop after a wrong choice.
 
 Accepted solutions must be responsive-friendly.
 
+### Negative margin
+
+\- not responsive
+
 ### Absolute position
 
 \- no sibling concept
@@ -73,6 +77,10 @@ Accepted solutions must be responsive-friendly.
 ???
 
 ## Recommended Usage
+
+### Negative margin
+
+???
 
 ### Absolute position
 
