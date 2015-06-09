@@ -108,7 +108,10 @@ Site layout, menus, breadcrumbs, buttons, forms.
 
 ## Centering
 
-### Absolute Position + Defined Dimensions
+### Absolute Position + Constant Height
+
+\- constant height
+\+ stable solution
 
 ```css
 .center {
@@ -116,7 +119,35 @@ Site layout, menus, breadcrumbs, buttons, forms.
   top: 0; left: 0; bottom: 0; right: 0;
   width: 50%; height: 50%;
   margin: auto;
-  overflow: auto; /* scrolls if content is too wide or too high */
+  
+  /* Scrolls if content is too big */
+  overflow: auto; 
+  
+  /* Resize is also supported */
+  resize: both;
+  max-width: 100%;
+  max-height: 100%;
+  
+  /* Can be used to center an image */
+  /* heigth: auto */
+}
+```
+
+### Absolute Position + Transform
+
+\+ variable height
+\- can interfere with other transforms
+\- blurry rendering in some cases
+
+```css
+.center {
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%,-50%);
+  width: 50%;
+  
+  /* Scrolls if content is too big */
+  overflow: auto;
   
   /* Resize is also supported */
   resize: both;
