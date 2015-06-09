@@ -158,3 +158,9 @@ Site layout, menus, breadcrumbs, buttons, forms.
   /* heigth: auto */
 }
 ```
+
+### Inline Block
+
+\- relies on pseudo elements
+\- hacky width pre-calculations
+\- font specific
