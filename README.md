@@ -34,9 +34,9 @@ Accepted solutions must be responsive-friendly.
 
 \- horizontal only
 
-\- no centering along the main axis
+\- can't center along the main axis
 
-\- no alignment along the cross axis
+\- can't align along the cross axis
 
 \- can't force items to have equal height
 
@@ -50,9 +50,9 @@ Accepted solutions must be responsive-friendly.
 
 \- horizontal only
 
-\+ can be centered along the main axis
+\+ can center along the main axis
 
-\- no alignment along the cross axis
+\- can't align along the cross axis
 
 \- absorb whitespace as characters (as all inline elements)
 
@@ -64,9 +64,9 @@ Accepted solutions must be responsive-friendly.
 
 \+ horizontal or vertical
 
-\+ can be aligned along the main axis
+\+ can align along the main axis
 
-\+ can be aligned along the cross axis
+\+ can align along the cross axis
 
 \+ can force items to have equal height
 
